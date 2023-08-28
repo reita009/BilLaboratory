@@ -1,0 +1,19 @@
+{
+  "name": "billaboratory",
+  "version": "1.0.0",
+  "description": "Toda parte backend da aplicação",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reita009/BilLaboratory.git"
+  },
+  "author": "Reita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reita009/BilLaboratory/issues"
+  },
+  "homepage": "https://github.com/reita009/BilLaboratory#readme"
+}
