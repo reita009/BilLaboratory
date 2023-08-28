@@ -4,7 +4,7 @@
   "description": "Toda parte backend da aplicação",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "nodemon serve.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/reita009/BilLaboratory/issues"
   },
-  "homepage": "https://github.com/reita009/BilLaboratory#readme"
+  "homepage": "https://github.com/reita009/BilLaboratory#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "knex": "^2.5.1",
+    "mysql2": "^3.6.0",
+    "nodemon": "^3.0.1"
+  }
 }
